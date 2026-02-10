@@ -5,7 +5,7 @@
 Final Cut Pro for Mac is Apple’s professional video editing software built for creators who want fast performance, stable workflows, and cinematic-quality output on macOS. Whether you’re editing YouTube videos, films, reels, or client projects, Final Cut Pro provides powerful tools inside a clean and efficient interface.
 
 Start here:  
-👉 [Final Cut Pro Beginner Guide](FINAL_CUT_PRO_BASE_URL/beginner-guide)
+👉 [Final Cut Pro Beginner Guide]([FINAL_CUT_PRO_BASE_URL/beginner-guide](https://github.com/getintopcgame/final-cut-pro-for-mac/blob/main/install-guide.md))
 
 ---
 
